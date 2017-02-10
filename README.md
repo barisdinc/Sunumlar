@@ -1,4 +1,1 @@
-
-
-
-Presentations of my own HISTORY...
+SDR-GNURadio_AkademikBilisim2017.pdf     Akademik Bilisim 2017 Aksaray Sunumu

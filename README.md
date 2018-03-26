@@ -27,3 +27,7 @@ DIKKAT YIL 2002....!!!!!!!!!!!!!!!!!!
 Packet Radio :
 ---------------
 1997 de Turkiye genelinde kurulan AX25 tabanli ve telsizlerimiz uzerinden calisan wireless internet networkumuzun tanitim sunumudur. Ozellikle LINUX a gerekli kernel eklentilerinin yapilmasini anlatir.
+
+ANTRAK-APRS :
+-------------
+25 Mart 2018 tarihinde ANTRAK'da yaptigim "telsiz uzerinden iletisim, packet radio ve APRS" konularini iceren sunumdur. Sunum video olarak YOUTUBE sayfamda da mevcuttur.

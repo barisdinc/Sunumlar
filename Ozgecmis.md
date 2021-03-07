@@ -17,3 +17,5 @@ Dernek faaliyetleri kapsamında tamamlanmış ve uzaya gönderilmiş uydu bileş
 yürürtülmesi kapsamında etkin rol almaktadır. Bu proje kapsamında okul etkinlikleri ya da kişisel aktiviteleri kapsamında gelirtirebilecekleri ve internet 
 üzerinden birbirleri ile iletişim halinde olan  "model mars üssü", "mode mars rover", "masaüstü mars modeli" ve benzeri pek çokk alt projenin
 oluşturulmasında faaliyet göstermektedir.
+
+Bilkent Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencilerine 10 yıla yakın bir süredir "CS432 Machine to Machine Communication (M2M)" başlıklı IoT dersi kapsamında projelerin fikir aşamasından gerçekleştirim ve pazarlama aşamalarına kadar olan yaşam döngüsünü içeren bir içöerikte ders vermektedir.

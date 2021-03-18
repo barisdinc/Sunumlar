@@ -31,3 +31,9 @@ Packet Radio :
 ANTRAK-APRS :
 -------------
 25 Mart 2018 tarihinde ANTRAK'da yaptigim "telsiz uzerinden iletisim, packet radio ve APRS" konularini iceren sunumdur. Sunum video olarak YOUTUBE sayfamda da mevcuttur.
+
+Yer Kontrol Istasyonu:
+----------------------
+LEO Uydulari izlemek icin kurulacak bir istasyon hakkinda bilmemiz gereken hersey
+
+
